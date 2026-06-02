@@ -6,7 +6,7 @@ penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik s
 1. Mohamad Erlangga Zein - 109082500020
 2. Nayaka Farros Riandra - 109082500055
 3. Andika Fathur Rizki - 109082530012
-   
+<br><br>
 ## 💡PENJELASAN SPESIFIKASI
 1. Pengguna dapat menambahkan, mengubah, dan menghapus data komponen PC yang terpasang.
 2. Sistem dapat mencatat status kondisi perangkat terutama saat mengalami lag atau panas berlebih (overheat).

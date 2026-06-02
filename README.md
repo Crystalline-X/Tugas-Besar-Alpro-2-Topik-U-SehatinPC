@@ -2,15 +2,15 @@
 SehatinPC adalah aplikasi untuk mengawasi kondisi operasional perangkat keras komputer
 secara real-time. Data utama yang digunakan adalah data komponen, data suhu sensor, dan data
 penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik sistem PC.
-
-### PENJELASAN SPESIFIKASI
+ 
+### 💡PENJELASAN SPESIFIKASI
 1. Pengguna dapat menambahkan, mengubah, dan menghapus data komponen PC yang terpasang.
 2. Sistem dapat mencatat status kondisi perangkat terutama saat mengalami lag atau panas berlebih (overheat).
 3. Pengguna dapat mencari data komponen berdasarkan nama perangkat atau status kesehatan menggunakan Sequential dan Binary Search.
 4. Pengguna dapat mengurutkan data perangkat berdasarkan nomor seri komponen menggunakan Selection dan Insertion Sort.
 5. Sistem dapat menampilkan statistik jumlah komponen yang bermasalah dan rata-rata suhu kerja perangkat.
 
-### MENU UTAMA
+### 💻MENU UTAMA
 1. Tambah Komponen
 2. Ubah Komponen
 3. Hapus Komponen
@@ -22,7 +22,7 @@ penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik s
 9. Statistik Kesehatan
 0. Keluar
 
-### PENJELASAN MENU UTAMA 
+### 🤔PENJELASAN MENU UTAMA 
 1. Tambah Komponen: Menambahkan data hardware baru (SN, Nama, Suhu) dengan penentuan status otomatis (Normal/Lag/Overheat).
 2. Ubah Komponen: Memperbarui data Nama dan Suhu komponen berdasarkan Serial Number (SN).
 3. Hapus Komponen: Menghapus data komponen dari sistem berdasarkan pencarian SN.
@@ -33,3 +33,10 @@ penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik s
 8. Urutkan Data (Insertion Sort): Alternatif algoritma pengurutan untuk menyusun data dari SN terkecil ke terbesar.
 9. Statistik Kesehatan: Menampilkan laporan ringkas berisi jumlah komponen yang bermasalah dan rata-rata suhu sistem.
 0. Keluar: Menutup aplikasi dengan aman (data in-memory akan otomatis dibersihkan).
+
+### 🚀CARA KERJA (HOW TO RUN THE PROGRAM)
+1. Buka folder proyek Anda di VS Code.
+2. Pastikan file tubes.go terbuka di editor.
+3. Klik tombol "Run" (ikon play) yang ada di pojok kanan atas jendela editor VS Code.
+4. Atau jika tidak bisa menggunakan tombol play, gunakan terminal dengan klik new terminal kemudian ketik "go run tubes.go".
+5. Terminal akan otomatis terbuka di bagian bawah dan program SehatinPC siap digunakan.

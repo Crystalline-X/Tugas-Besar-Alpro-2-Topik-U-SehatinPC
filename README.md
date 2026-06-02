@@ -13,7 +13,7 @@ penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik s
 3. Pengguna dapat mencari data komponen berdasarkan nama perangkat atau status kesehatan menggunakan Sequential dan Binary Search.
 4. Pengguna dapat mengurutkan data perangkat berdasarkan nomor seri komponen menggunakan Selection dan Insertion Sort.
 5. Sistem dapat menampilkan statistik jumlah komponen yang bermasalah dan rata-rata suhu kerja perangkat.
-<br>
+<br><br>
 ## 💻MENU UTAMA
 1. Tambah Komponen
 2. Ubah Komponen
@@ -25,7 +25,7 @@ penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik s
 8. Urutkan Data (Insertion Sort - By Serial)
 9. Statistik Kesehatan
 0. Keluar
-<br>
+<br><br>
 ## 🤔PENJELASAN MENU UTAMA 
 1. Tambah Komponen: Menambahkan data hardware baru (SN, Nama, Suhu) dengan penentuan status otomatis (Normal/Lag/Overheat).
 2. Ubah Komponen: Memperbarui data Nama dan Suhu komponen berdasarkan Serial Number (SN).
@@ -37,7 +37,7 @@ penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik s
 8. Urutkan Data (Insertion Sort): Alternatif algoritma pengurutan untuk menyusun data dari SN terkecil ke terbesar.
 9. Statistik Kesehatan: Menampilkan laporan ringkas berisi jumlah komponen yang bermasalah dan rata-rata suhu sistem.
 0. Keluar: Menutup aplikasi dengan aman (data in-memory akan otomatis dibersihkan).
-<br>
+<br><br>
 ## 🚀CARA KERJA (HOW TO RUN THE PROGRAM)
 1. Buka folder proyek Anda di VS Code.
 2. Pastikan file tubes.go terbuka di editor.

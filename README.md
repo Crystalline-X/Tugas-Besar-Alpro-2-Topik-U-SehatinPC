@@ -4,11 +4,11 @@ secara real-time. Data utama yang digunakan adalah data komponen, data suhu sens
 penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik sistem PC.
 
 ## PENJELASAN SPESIFIKASI
-a. Pengguna dapat menambahkan, mengubah, dan menghapus data komponen PC yang terpasang.
-b. Sistem dapat mencatat status kondisi perangkat terutama saat mengalami lag atau panas berlebih (overheat).
-c. Pengguna dapat mencari data komponen berdasarkan nama perangkat atau status kesehatan menggunakan Sequential dan Binary Search.
-d. Pengguna dapat mengurutkan data perangkat berdasarkan nomor seri komponen menggunakan Selection dan Insertion Sort.
-e. Sistem dapat menampilkan statistik jumlah komponen yang bermasalah dan rata-rata suhu kerja perangkat.
+1. Pengguna dapat menambahkan, mengubah, dan menghapus data komponen PC yang terpasang.
+2. Sistem dapat mencatat status kondisi perangkat terutama saat mengalami lag atau panas berlebih (overheat).
+3. Pengguna dapat mencari data komponen berdasarkan nama perangkat atau status kesehatan menggunakan Sequential dan Binary Search.
+4. Pengguna dapat mengurutkan data perangkat berdasarkan nomor seri komponen menggunakan Selection dan Insertion Sort.
+5. Sistem dapat menampilkan statistik jumlah komponen yang bermasalah dan rata-rata suhu kerja perangkat.
 
 ## MENU UTAMA 
 1. Tambah Komponen: Menambahkan data hardware baru (SN, Nama, Suhu) dengan penentuan status otomatis (Normal/Lag/Overheat).

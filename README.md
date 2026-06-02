@@ -7,7 +7,7 @@ penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik s
 2. Nayaka Farros Riandra - 109082500055
 3. Andika Fathur Rizki - 109082530012
 <br><br>
-## 💡PENJELASAN SPESIFIKASI
+## 🛠️SPESIFIKASI
 1. Pengguna dapat menambahkan, mengubah, dan menghapus data komponen PC yang terpasang.
 2. Sistem dapat mencatat status kondisi perangkat terutama saat mengalami lag atau panas berlebih (overheat).
 3. Pengguna dapat mencari data komponen berdasarkan nama perangkat atau status kesehatan menggunakan Sequential dan Binary Search.

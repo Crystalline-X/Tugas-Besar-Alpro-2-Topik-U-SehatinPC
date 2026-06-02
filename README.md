@@ -1,4 +1,4 @@
-# Tugas-Besar-Alpro-2-Topik-U-SehatinPC
+# 📝Tugas Besar Alpro2 Topik U: SehatinPC
 SehatinPC adalah aplikasi untuk mengawasi kondisi operasional perangkat keras komputer
 secara real-time. Data utama yang digunakan adalah data komponen, data suhu sensor, dan data
 penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik sistem PC.

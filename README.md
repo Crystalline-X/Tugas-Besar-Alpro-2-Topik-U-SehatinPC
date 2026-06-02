@@ -1,8 +1,14 @@
-# 📝Tugas Besar Alpro2 Topik U: SehatinPC
+# 📝Tugas Besar Alpro2 Kelompok J, Topik U: SehatinPC
+### Anggota Kelompok
+1. Mohamad Erlangga Zein - 109082500020
+2. Nayaka Farros Riandra - 109082500055
+3. Andika Fathur Rizki - 109082530012
+   
 SehatinPC adalah aplikasi untuk mengawasi kondisi operasional perangkat keras komputer
 secara real-time. Data utama yang digunakan adalah data komponen, data suhu sensor, dan data
 penggunaan beban kerja. Pengguna aplikasi adalah teknisi komputer atau pemilik sistem PC.
- 
+
+   
 ## 💡PENJELASAN SPESIFIKASI
 1. Pengguna dapat menambahkan, mengubah, dan menghapus data komponen PC yang terpasang.
 2. Sistem dapat mencatat status kondisi perangkat terutama saat mengalami lag atau panas berlebih (overheat).
